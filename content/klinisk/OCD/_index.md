@@ -15,9 +15,7 @@ diagram: true
 
 ## Tvangslidelse/OCD
 
-Pasientforløpet beskriver forventet pasientforløp for pasienter med OCD. Formålet
-med pasientforløpet er å skape sammenheng i tjenestene, samt oppnå bedre kvalitet
-og øke mulighet for brukermedvirkning
+Pasientforløpet beskriver forventet pasientforløp for pasienter med OCD. Formålet med pasientforløpet er å skape sammenheng i tjenestene, samt oppnå bedre kvalitet og øke mulighet for brukermedvirkning
 
 
 
