@@ -109,10 +109,13 @@ Vanlig tilleggsproblematikk eller samsykelighet er;
 {{< vimeo 106254043 >}}
 {{% /center %}}**
 
+<p>&nbsp;</p>
 
 {{% center %}}
 {{< vimeo 89028037 >}}
 {{% /center %}}
+
+<p>&nbsp;</p>
 
 {{% center %}}
 {{< vimeo 128959504 >}}
