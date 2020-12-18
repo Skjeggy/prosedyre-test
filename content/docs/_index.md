@@ -1,5 +1,5 @@
 ---
-title: Docs
+title: Kliniske prosedyrer
 type: book  # Do not modify.
 ---
 
