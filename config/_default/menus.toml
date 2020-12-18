@@ -5,5 +5,5 @@
 
 [[main]]
   name = "Kliniske prosedyrer"
-  url = "docs/"
+  url = "klinisk/"
   weight = 10
