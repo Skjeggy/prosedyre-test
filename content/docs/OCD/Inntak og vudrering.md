@@ -5,31 +5,52 @@ type: book
 date: "2019-05-05T00:00:00+01:00"
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 2
+diagram: true
 ---
 
-A recommended reading list for the course.
+Henvisning sendt til Klinikk for psykisk helse skal vurderes av inntaksteam/vurderingsteam i den kliniske enhet som pasienten sorterer inn under.
 
-## Books
+Det vil si at henvisning vurderes av et tverrfagligteam bestående av minst en psykologspesialist og psykiater.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Vurderinger gjøres med utgangspunkt i Prioriteringsforskriften §§ 2 og 2a. Med bakgrunn i dette tildeles enten **rett til helsehjelp**, jmf. Pasient og brukerrettighetsloven § 2-1. Eller man vurderer at det **ikke foreligger behov for helsehjelp fra spesialisthelsetjenesten**. Vurdering med tilbakemelding til pasient skal gjøres innen 10 dager.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+To punkter skal vurderes når rett til helsehjelp tildeles;
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+- Nytte av helsehjelpen
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+- Det skal være et rimelig forhold mellom kostnader og nytte
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Der det innvilges rett til helsehjelp fra spesialisthelsetjenesten, kan dette være enten **rett til utredning** eller **rett til behandling**. Rett til behandling gis der man er sikker på pasientforløp. Rett til utredning når det er mer uavklarte forhold og usikkerhet rundt antatt diagnose og problemstilling.
+
+Frist for oppstart skal settes. Fristen avhenger av vurderingen som gjøres av graden av alvorlighet.
 
 
-## Videos
+## OCD team DPS Solvang
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+I de fleste tilfeller gir en tvangslidelse rett til helsehjelp fra spesialisthelsetjenesten, jmf. Prioriteringsveileder for psykisk helsevern for voksne.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+Ved rett til helsehjelp vil rimelig ventetid være 3 mnd. Der det vurderes å foreligge rett til oppfølging ved spesialisthelsetjenesten, tildeles en behandler ved lokalt DPS.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+Deretter foretas en sekundærhenvisning til OCD teamet ved DPS Solvang. Pasienten kalles inn til prescreening ved OCD teamet i løpet av ca 4 uker.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+Behandling gis av et spesialisert OCD team, lokalisert ved DPS Solvang. Samarbeid med primærhelsetjenesten gjøres av behandler ved lokalt DPS.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+
+## Oversiktsbilde - vurderinger og rettigheter
+
+```mermaid
+graph TD;
+  A[Vurdering av henvisning] --> B(Rett til behandling)
+  A[Vurdering av henvisning] --> C(Rett til utredning)
+  A[Vurdering av henvisning] --> D(Ikke behov for helsehjelp fra spesialisthelsetjenesten)
+  
+  B(Rett til behandling) --> E[Pasientforløp annen tilstand]
+  B(Rett til behandling) --> H[Pasientforløp tvangslidelse/OCD]
+  C(Rett til utredning) --> F[Utredning av uavklart tilstand]
+  C(Rett til utredning) --> G[Avklare det uavklarte - avklare om det foreligger psykisk lidelse]
+  G[Avklare det uavklarte - avklare om det foreligger psykisk lidelse] --> F[Utredning av uavklart tilstand]
+  F[Utredning av uavklart tilstand] --> E[Pasientforløp annen tilstand]
+  F[Utredning av uavklart tilstand] --> H[Pasientforløp tvangslidelse/OCD]
+  F[Utredning av uavklart tilstand] --> D(Ikke behov for helsehjelp fra spesialisthelsetjenesten)
+  G[Avklare det uavklarte - avklare om det foreligger psykisk lidelse] --> D(Ikke behov for helsehjelp fra spesialisthelsetjenesten)
+  '''
