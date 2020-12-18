@@ -27,30 +27,9 @@ Frist for oppstart skal settes. Fristen avhenger av vurderingen som gjøres av g
 
 ## OCD team DPS Solvang
 
-I de fleste tilfeller gir en tvangslidelse rett til helsehjelp fra spesialisthelsetjenesten, jmf. Prioriteringsveileder for psykisk helsevern for voksne.
-
-Ved rett til helsehjelp vil rimelig ventetid være 3 mnd. Der det vurderes å foreligge rett til oppfølging ved spesialisthelsetjenesten, tildeles en behandler ved lokalt DPS.
-
-Deretter foretas en sekundærhenvisning til OCD teamet ved DPS Solvang. Pasienten kalles inn til prescreening ved OCD teamet i løpet av ca 4 uker.
-
-Behandling gis av et spesialisert OCD team, lokalisert ved DPS Solvang. Samarbeid med primærhelsetjenesten gjøres av behandler ved lokalt DPS.
+I de fleste tilfeller gir en tvangslidelse rett til helsehjelp fra spesialisthelsetjenesten, jmf. Prioriteringsveileder for psykisk helsevern for voksne. Ved rett til helsehjelp vil rimelig ventetid være 3 mnd. Der det vurderes å foreligge rett til oppfølging ved spesialisthelsetjenesten, tildeles en behandler ved lokalt DPS. Deretter foretas en sekundærhenvisning til OCD teamet ved DPS Solvang. Pasienten kalles inn til prescreening ved OCD teamet i løpet av ca 4 uker. Behandling gis av et spesialisert OCD team, lokalisert ved DPS Solvang. Samarbeid med primærhelsetjenesten gjøres av behandler ved lokalt DPS.
 
 
 ## Oversiktsbilde - vurderinger og rettigheter
 
-```mermaid
-graph TD;
-  A[Vurdering av henvisning] --> B(Rett til behandling)
-  A[Vurdering av henvisning] --> C(Rett til utredning)
-  A[Vurdering av henvisning] --> D(Ikke behov for helsehjelp fra spesialisthelsetjenesten)
-  
-  B(Rett til behandling) --> E[Pasientforløp annen tilstand]
-  B(Rett til behandling) --> H[Pasientforløp tvangslidelse/OCD]
-  C(Rett til utredning) --> F[Utredning av uavklart tilstand]
-  C(Rett til utredning) --> G[Avklare det uavklarte - avklare om det foreligger psykisk lidelse]
-  G[Avklare det uavklarte - avklare om det foreligger psykisk lidelse] --> F[Utredning av uavklart tilstand]
-  F[Utredning av uavklart tilstand] --> E[Pasientforløp annen tilstand]
-  F[Utredning av uavklart tilstand] --> H[Pasientforløp tvangslidelse/OCD]
-  F[Utredning av uavklart tilstand] --> D(Ikke behov for helsehjelp fra spesialisthelsetjenesten)
-  G[Avklare det uavklarte - avklare om det foreligger psykisk lidelse] --> D(Ikke behov for helsehjelp fra spesialisthelsetjenesten)
-  '''
+{{< figure library="true" src="ocd-pakke.png" title="Flytskjema for vurderinger og rettigheter" >}}
