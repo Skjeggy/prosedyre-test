@@ -104,10 +104,10 @@ Vanlig tilleggsproblematikk eller samsykelighet er;
 
 [Helsefilm – Film om OCD](http://www.helsefilm.no/v1/film/details.aspx?filmid=90188) - fungerer ikke.
 
-{{< vimeo 106254043 >}}
+**{{< vimeo 106254043 >}}
 {{% center %}}
-**Ungdom og angst – Helsestudio 1**
-{{% /center %}}
+Ungdom og angst – Helsestudio 1
+{{% /center %}}**
 
 
 {{< vimeo 89028037 >}}
