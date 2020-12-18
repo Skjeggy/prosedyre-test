@@ -105,14 +105,21 @@ Vanlig tilleggsproblematikk eller samsykelighet er;
 [Helsefilm – Film om OCD](http://www.helsefilm.no/v1/film/details.aspx?filmid=90188) - fungerer ikke.
 
 {{< vimeo 106254043 >}}
-Ungdom og angst – Helsestudio 1 106254043
+{{% center %}}
+**Ungdom og angst – Helsestudio 1**
+{{% /center %}}
+
 
 {{< vimeo 89028037 >}}
-Angst en psykisk og fysisk reaksjon
+{{% center %}}
+**Angst en psykisk og fysisk reaksjon**
+{{% /center %}}
+
 
 {{< vimeo 128959504 >}}
-Behandling – redsel for bakterier
-
+{{% center %}}
+**Behandling – redsel for bakterier**
+{{% /center %}}
 
 ---
 ## Henvisning
