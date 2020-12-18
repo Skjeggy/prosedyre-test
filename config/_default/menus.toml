@@ -7,3 +7,8 @@
   name = "Kliniske prosedyrer"
   url = "klinisk/"
   weight = 10
+
+[[main]]
+  name = "Administrative prosedyrer"
+  url = "admin"
+  weight = 20
