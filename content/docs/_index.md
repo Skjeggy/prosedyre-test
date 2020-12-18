@@ -3,4 +3,4 @@ title: Docs
 type: book  # Do not modify.
 ---
 
-Welcome to the _book_ template!
+Velkommen til den klinsike delen av prosedyreboken.

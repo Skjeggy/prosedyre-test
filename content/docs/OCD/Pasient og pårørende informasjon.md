@@ -8,6 +8,7 @@ date: "2019-05-05T00:00:00+01:00"
 weight: 1
 ---
 
+---
 ## Hva er en tvangslidelse?
 
 Tvangslidelse eller OCD (obsessive compulsive disorder).
@@ -34,6 +35,7 @@ meningsløse for andre. Vanlige eksempler på
 tvangshandlinger kan være slik som sjekking, vasking og
 telling.
 
+---
 
 ## Fakta om OCD
 
@@ -49,6 +51,7 @@ Vanlige tvangstanker kan være:
 - Ønske å ha orden, symmetri i sine omgivelser
 - Bekymring for å skade seg selv, andre eller ting i omgivelsene.
 
+---
 ### Tvangshandlinger:
 Dette er handlinger som gjøres for å dempe ubehaget som følger av tvangstankene. Disse handlingene skal sikre at de negative hendelsene ikke inntreffer.
 
@@ -105,9 +108,14 @@ Vanlig tilleggsproblematikk eller samsykelighet er;
 
 [Helse Norge](https://www.helsenorge.no/)
 
-Tvangslidelse
+[Tvangslidelse](https://www.tvangslidelse.no/)
 
-Pasient og brukerrettighetsloven
+[Pasient og brukerrettighetsloven](https://lovdata.no/dokument/NL/lov/1999-07-02-63?q=pasient%20og%20brukerrettighetsloven)
+
+
+### Filmer/videoer
+
+
 
 
 ## Henvisning
