@@ -23,19 +23,10 @@ og øke mulighet for brukermedvirkning
 
 ```mermaid
 graph TD;
-  Pasient/
-pårørende
-informasjon-->Inntak og
-vurdering;
-  Inntak og
-vurdering-->Utredning og
-diagnostikk;
-  Utredning og
-diagnostikk-->Behandling og
-tiltak;
-  Behandling og
-tiltak-->DPasientforløp -
-oversikt;
+  A[Pasient/pårørende informasjon] --> B(Inntak og vurdering)
+  B(Inntak og vurdering) --> C[Utredning og diagnostikk]
+  C(Utredning og diagnostikk) --> D{Behandling og tiltak}
+  D{Behandling og tiltak} --> E[/Pasientforløp -oversikt\]
 ```
 
 

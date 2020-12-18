@@ -107,7 +107,7 @@ Vanlig tilleggsproblematikk eller samsykelighet er;
 
 {{% center %}}
 {{< vimeo 106254043 >}}
-{{% /center %}}**
+{{% /center %}}
 
 <p>&nbsp;</p>
 
