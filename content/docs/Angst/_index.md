@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
-linktitle: Chapter 2
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+linktitle: Angst
+summary: ipsum lorem.
 weight: 1
 icon: book-reader
 icon_pack: fas
